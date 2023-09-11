@@ -6,12 +6,26 @@ Your first task is just to be able to work with a github repository and github c
 
 # Exercise 0
 
-Clone this repository to your local laptop. 
+Just set up your github classroom
 
+- Access the link for this assignment
+
+- Connect your github account to the github classroom
+
+- Clone this repository to your local laptop.
+
+    - cd into the folder you want to save your homeworks
+    - clone this repository (git clone <url_for_repository>)
+    - make a first commit with the message "hey! I am here! this is so cool!"
+    - push your first commit (git push)
 
 # Real exercise. 
 
-Open the jupyter notebook `_week-02-exercises.ipynb`, answer the questions, and push to this repository a new notebook with your answers, and saved as `<your_name>_week-02-exercises.ipynb`
+- Open the jupyter notebook `_week-02-exercises.ipynb`
+- answer the questions,
+- push to this repository as new notebook with your answers saved as `<your_name>_week-02-exercises.ipynb`
 
+
+## have fun!
 
 

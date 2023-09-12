@@ -12,11 +12,13 @@ Just set up your github classroom
 
 - Connect your github account to the github classroom
 
-- Clone this repository to your local laptop.
+- Clone this repository to your local laptop. See the step by step:
 
     - cd into the folder you want to save your homeworks
     - clone this repository (git clone <url_for_repository>)
-    - make a first commit with the message "hey! I am here! this is so cool!"
+    - cd into this folder you just cloned
+    - make any changes you want
+    - make a first commit with the message "hey - I am here! this is so cool"
     - push your first commit (git push)
 
 # Real exercise. 

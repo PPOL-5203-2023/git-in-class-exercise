@@ -18,6 +18,7 @@ Just set up your github classroom
     - clone this repository (git clone <url_for_repository>)
     - cd into this folder you just cloned
     - make any changes you want
+    - stage your changes
     - make a first commit with the message "hey - I am here! this is so cool"
     - push your first commit (git push)
 

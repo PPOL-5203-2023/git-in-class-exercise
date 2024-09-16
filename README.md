@@ -2,7 +2,7 @@
 
 This is your in-class exercise for week two. 
 
-Your first task is just to be able to work with a github repository and github classroom. This is how we will handle your assignments. 
+Your first task is just to be able to work with a github repository and github classroom. This is how we will handle your assignments throughout the course.
 
 # Exercise 0
 
@@ -28,6 +28,6 @@ Just set up your github classroom
 - push to this repository as new notebook with your answers saved as `<your_name>_week-02-exercises.ipynb`
 
 
-## have fun!
+## Have fun!
 
 
